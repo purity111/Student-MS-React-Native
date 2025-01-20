@@ -23,11 +23,11 @@ KLearn is a super intuitive and easy to use application which helps teachers and
 https://www.esolutionswebbers.com/school-management-application-software.html
 
 # Used Skills
-<div style="display: flex; flex-wrap: wrap; margin-right: 15px; margin-bottom:15px">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="NodeJs" />
-    <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/reactnative-auto.svg" alt="ReactNative" />
-    <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/kotlin-auto.svg" alt="Kotlin" />
-    <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/firebase-auto.svg" alt="Firebase" />
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="NodeJs" style=" margin-right: 15px; margin-bottom:15px; height:40px" />
+    <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/reactnative-auto.svg" alt="ReactNative" style=" margin-right: 15px; margin-bottom:15px; height:40px" />
+    <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/kotlin-auto.svg" alt="Kotlin" style=" margin-right: 15px; margin-bottom:15px; height:40px" />
+    <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/firebase-auto.svg" alt="Firebase" style=" margin-right: 15px; margin-bottom:15px; height:40px" />
 </div>
 
 # Feature
